@@ -1,3 +1,3 @@
-# book-recommender
-book-recommender-system
+# Book-Recommender
+
 Kaggle: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
